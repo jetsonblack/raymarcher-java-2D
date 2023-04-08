@@ -4,6 +4,11 @@ The ray marching algorithm uses a signed distance function (SDF) to determine th
 
 The ray marching algorithm iteratively steps along the ray in small increments, computing the SDF at each point, until it finds a point where the SDF is zero, indicating that the ray has intersected with an object.
 
+## Demo
+<p align="center">
+  <img width="640" height="642" src="media/rayMarchGif.gif">
+</p>
+
 
 
 ## Authors
